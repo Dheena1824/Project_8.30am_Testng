@@ -26,7 +26,17 @@ public class A {
 		System.out.println("ssss");
 
 	}
+
 	
+
+	
+	@Test
+	private void test5() {
+		System.out.println("111111");
+		System.out.println("222222");
+		System.out.println("33333");
+
+}
 	@Test(priority=3)
 	private void test4() {
 		System.out.println("mmmrm");
@@ -34,6 +44,5 @@ public class A {
 		System.out.println("sssrs");
 
 	}
-	
 	
 }
