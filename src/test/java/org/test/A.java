@@ -27,4 +27,13 @@ public class A {
 
 	}
 	
+	@Test(priority=3)
+	private void test4() {
+		System.out.println("mmmrm");
+		System.out.println("ppprp");
+		System.out.println("sssrs");
+
+	}
+	
+	
 }
