@@ -27,4 +27,22 @@ public class A {
 
 	}
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	@Test
+	private void test5() {
+		System.out.println("111111");
+		System.out.println("222222");
+		System.out.println("33333");
+
+	}
 }
